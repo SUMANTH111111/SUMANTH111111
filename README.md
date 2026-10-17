@@ -1,7 +1,12 @@
 
-## 💫 About Me
+<p align="center">
+  <img src="./1.GIF" width="60%" alt="Anime samurai opening animation" />
+</p>
+<h2 align="center"></h2>
+
 <table>
 <tr>
+<h2>💫 About Me</h2>
 <td width="60%" valign="middle">
 Hey there! 👋 I'm Sumanth, an engineering student passionate about software development, data analytics, and artificial intelligence. 💻
 
