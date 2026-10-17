@@ -12,10 +12,7 @@ Hey there! 👋 I'm Sumanth, an engineering student passionate about software de
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SUMANTH111111&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=SUMANTH111111&icon=4&color=0)](https://visitcount.itsvg.in)
-
+ <p align="center">
+  <img src="matrix.gif" width="100%" alt="Green pixel animation" />
+</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
