@@ -1,23 +1,24 @@
 
-<h2>💫 About Me</h2>
+## 💫 About Me
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="60%" valign="middle">
 Hey there! 👋 I'm Sumanth, an engineering student passionate about software development, data analytics, and artificial intelligence. 💻
-<br/><br/>
+
 I enjoy building real-world applications, exploring new technologies, and turning innovative ideas into practical solutions. 🚀
-<br/><br/>
+
 I'm continuously improving my skills in programming, web development, databases, and AI. 🌱
-<br/><br/>
+
 My goal is to become a skilled software engineer and contribute to innovative products at leading technology companies.
-<br/><br/>
-Outside of coding, I'm a football enthusiast ⚽ and an anime lover 🎌.
+
+Outside of coding, I'm a football enthusiast ⚽ and an Manhwa & Manhua Reader 🎌.
 </td>
 <td width="40%" align="center" valign="middle">
 <img src="./from%20webtoonofficial%20itself%20%F0%9F%98%B9.jpg" width="100%" alt="Anime profile picture"/>
 </td>
 </tr>
 </table>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sumanth_poruri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nageswara-sumanth) 
