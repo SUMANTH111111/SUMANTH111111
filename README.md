@@ -13,6 +13,6 @@ Hey there! 👋 I'm Sumanth, an engineering student passionate about software de
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
  <p align="center">
-  <img src="matrix.gif" width="100%" alt="Green pixel animation" />
+  <img src="example.gif" width="100%" alt="Green pixel animation" />
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
