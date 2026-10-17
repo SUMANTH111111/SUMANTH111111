@@ -20,9 +20,34 @@ Outside of coding, I'm a football enthusiast ⚽ and an Manhwa & Manhua Reader �
 </table>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sumanth_poruri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nageswara-sumanth) 
 
+
+<h2>🌐 Socials</h2>
+
+<table width="100%">
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <img src="./impala.jpg" width="100%" alt="Tame Impala Currents inspired artwork" />
+    </td>
+    <td width="60%" align="center" valign="middle">
+      <p>
+        <a href="https://instagram.com/sumanth_poruri">
+          <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+        </a>
+      </p>
+      <p>
+        <a href="https://linkedin.com/in/nageswara-sumanth">
+          <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+      </p>
+      <p>
+        <a href="https://open.spotify.com/user/31dvffzds7ikz4s6ifglev2gfg34">
+          <img src="https://img.shields.io/badge/Spotify-%231DB954.svg?logo=spotify&logoColor=white" alt="Spotify" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 <h2 align="center"> Knowledge IG📖</h2>
