@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on full-stack development projects and AI-powered applications**<br><br>👯 I’m looking to collaborate on **software development, data analytics, and AI projects**<br><br>🤝 I’m looking for help with **backend development, database management, and building scalable applications**<br><br>🌱 I’m currently learning Software Engineering, Data Analytics, Artificial Intelligence, and Cloud Computing<br><br>💬 Ask me about Java, Python, SQL, DBMS, Git, GitHub, and my projects<br><br>⚡ Fun fact: A football enthusiast, anime lover, and future software engineer!
+
+Hey there! 👋 I'm Sumanth, an engineering student passionate about software development, data analytics, and artificial intelligence. 💻 I enjoy building real-world applications, exploring new technologies, and turning innovative ideas into practical solutions. 🚀 I'm continuously improving my skills in programming, web development, databases, and AI while working on projects that help me grow as a developer. 🌱 My goal is to become a skilled software engineer and contribute to innovative products at leading technology companies. Outside of coding, I'm a football enthusiast ⚽ and an anime lover 🎌.
 
 
 ## 🌐 Socials:
