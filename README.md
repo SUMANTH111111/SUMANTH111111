@@ -91,3 +91,20 @@ Outside of coding, I'm a football enthusiast ⚽ and an Manhwa & Manhua Reader �
   <img src="matrix.gif" width="100%" alt="Green pixel animation" />
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+<hr/>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <img src="./ -3.jpg" width="100%" alt="10/10 manhwa artwork" />
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <p><b>Thanks for scrolling through my 10/10 Profile 🫪 and So As a Reward U R Gonna Get Blessings From ME (I AM HIM!!)</b></p>
+    </td>
+  </tr>
+</table>
