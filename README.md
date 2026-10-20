@@ -93,7 +93,7 @@ Outside of coding, I'm a football enthusiast âš½ and an Manhwa & Manhua Reader ð
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
+[![Starred on StarSwap](https://www.fenriryt.me/badge/sumanth111111)](https://www.fenriryt.me/u/sumanth111111?ref=badge)
 
 
 <hr/>
